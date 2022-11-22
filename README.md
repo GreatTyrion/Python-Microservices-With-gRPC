@@ -27,7 +27,7 @@ kubectl scale --replicas=0 deployment/marketplace
 
 In the following figure, each Pod has one pause container: 
 
-![Running Marketplace and Recommendations containers](images/containers.jpg)
+![Running Marketplace and Recommendations containers](images/Containers.jpg)
 
 
 ### Reference:
